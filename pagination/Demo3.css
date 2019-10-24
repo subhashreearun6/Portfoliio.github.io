@@ -1,0 +1,82 @@
+
+#num a
+{
+  color: black;
+ 
+  padding:10px;
+  text-decoration: none; 
+  
+  
+}
+#num a:hover
+{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 15pt;
+  color: white;
+  background: burlywood;
+}
+#num{
+  
+  background: purple;
+  display: inline-block;
+  font-weight: bolder;
+  padding:10px 30px 10px 5px;
+  -webkit-box-shadow: 22px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 22px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 22px 10px 5px 0px rgba(0,0,0,0.75);
+  border-radius: 11px 11px 11px 11px;
+  -moz-border-radius: 11px 11px 11px 11px;
+  -webkit-border-radius: 11px 11px 11px 11px;
+  border: 0px solid #000000;
+  
+ }
+#content 
+{
+  background: blue;
+  margin:50px;
+  width:647px;
+  color: white;
+  padding:70px 70px 70px 70px;
+  -webkit-box-shadow: 22px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 22px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 22px 10px 5px 0px rgba(0,0,0,0.75);
+  border-radius: 11px 11px 11px 11px;
+  -moz-border-radius: 11px 11px 11px 11px;
+  -webkit-border-radius: 11px 11px 11px 11px;
+  border: 0px solid #000000;
+ 
+  
+}
+
+h1
+{
+  text-align: center;
+}
+body
+{
+  background: white(214, 132, 159);
+}
+#content tr td:hover
+{
+  
+  color: white;
+}
+#content th:hover
+{
+  color: rgb(64, 64, 226);
+}
+#content tr td 
+ {
+  text-align: center;
+  padding: 5px 5px 5px 5px;
+}
+#content tr th 
+{
+  padding: 5px 5px 5px 5px;
+}
+#main{
+  text-align: center;
+}
+#content {
+  text-align: center;
+}
